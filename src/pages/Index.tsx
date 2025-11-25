@@ -4,7 +4,7 @@ import { Input } from "@/components/ui/input";
 import Icon from "@/components/ui/icon";
 import { useState } from "react";
 
-const CONTRACT_ADDRESS = "Hno2zYs8odA9NZCGjGfJwUMGcWFAupump";
+const CONTRACT_ADDRESS = "GP7RuPSp3dRCeyinFam9at1YLLpnkacHZR2QC9qrpump";
 
 const Index = () => {
   const [copied, setCopied] = useState(false);
